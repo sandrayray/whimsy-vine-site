@@ -1,0 +1,6 @@
+name = "whimsy-vine-creations"
+compatibility_date = "2026-09-18"
+main = "src/index.js"
+
+[assets]
+directory = "."
